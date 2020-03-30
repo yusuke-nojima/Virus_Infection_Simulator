@@ -14,3 +14,8 @@ After a prespecified number of time steps, infected particles will be recovered.
 
 ## Simulator without sliders
 The simulator with default setting can be run in the openprocessing site. Please also visit [my page](https://www.openprocessing.org/sketch/864455) in openprocessing. 
+
+---
+This simulator is inspired by the article [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?fbclid=IwAR1A9D6VUMk7qquvyxQgDlfeqo_CSzUcAMSg2m_7azOnL6Ti9RfKbSDTVPg) on Washington Post.
+
+The code on multiple particles is taken from [the sample code](https://helloacm.com/processing-example-simple-particles/) by helloacm.com.
